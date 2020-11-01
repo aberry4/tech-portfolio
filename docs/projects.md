@@ -3,12 +3,7 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+I created a retirement calculator app. If you enter your month and year of birth, you can find out when your retirement age and date is.
+A link to my code can be found [here](https://github.com/aberry4/RetirementCalc).
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![Retirement Project](./assets/RetirementProject.png)
